@@ -6,3 +6,9 @@
     box-shadow: 0 1px 22px 0 rgba(0, 0, 0, 0.3);
     background-color: #ffffff;
 }
+.nav-header {
+    font-size: 26px;
+    font-weight: bold;
+    color:rgb(238, 43, 29);
+    font-family: serif;
+}
