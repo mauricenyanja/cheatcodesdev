@@ -51,14 +51,16 @@
   .column {
     float: left;
     width: 33.33%;
-
   }
-  
+
   .row:after {
     content: "";
     display: table;
     clear: both;
   }
   .row{
-      margin: 30px;
+      margin: 100px;
   }
+  h4{
+    font-size: 19px;
+}
