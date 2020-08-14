@@ -1,15 +1,16 @@
 .top-nav {
     display: flex;
     flex-direction: row;
-    height: 25px;
-    height: 62px;
+    height: 27px;
+    height: 70px;
     box-shadow: 0 1px 22px 0 rgba(0, 0, 0, 0.3);
-    background-color: #ffffff;
+    background-color:rgb(238, 43, 29);
+    padding: 0em;
 }
 .nav-header {
     font-size: 26px;
     font-weight: bold;
-    color:rgb(238, 43, 29);
+    color:rgb(0, 0, 0);
     font-family: serif;
     padding: 0px 0;
 }
@@ -22,9 +23,23 @@
 }
 .list a {
     text-decoration: none;
-    color: #0220a3;
+    color:rgb(5, 5, 5);
     font-weight: bold;
     font-family: 'Bitter', serif;
     height: 100%;
-    font-size: 40px;
+    font-size: 32px;
 }
+.list a:hover {
+    color:white;
+    border:2px  solid white;
+}
+.list li{
+    padding:0em;
+}
+.name {
+    height: 350px;
+    width: 100%;
+    background-image: url(https://acmatech.com/blog/wp-content/uploads/2013/04/Laptop-repair-course-software-skills.jpg);
+    display: flex;
+    justify-content: center;
+  }
