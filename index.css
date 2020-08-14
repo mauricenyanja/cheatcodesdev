@@ -12,3 +12,10 @@
     color:rgb(238, 43, 29);
     font-family: serif;
 }
+.list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
