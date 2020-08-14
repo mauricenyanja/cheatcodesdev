@@ -65,3 +65,9 @@
     font-size: 19px;
     color:rgb(238, 43, 29);
 }
+#image p {
+    float: left;
+    border-radius: 100%;
+    padding-right: 50px;
+  }
+  
