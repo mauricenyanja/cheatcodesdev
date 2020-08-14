@@ -9,7 +9,7 @@ body{
     height: 70px;
     box-shadow: 0 1px 22px 0 rgba(255, 255, 255, 0.7);
     background-color:rgb(238, 43, 29);
-    position: sticky;
+     position: sticky;
     padding: 0em;
 }
 .nav-header {
