@@ -42,8 +42,8 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Fullstack Dev", "Developer", "Photographer", "Designer", "Freelancer"],
-        typeSpeed: 100,
+        strings: ["Fullstack Dev", "Developer", "Photographer", "Designer", "Freelancer"]
+    
         backSpeed: 60,
         loop: true
     });
