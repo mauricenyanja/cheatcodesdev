@@ -11,7 +11,7 @@
 }
 
 body {
-  background: #e23434;
+  background: #504e4e;
   font-size: 14px;
   line-height: 22px;
   color: #050505;
@@ -59,11 +59,11 @@ body {
 }
 
 .resume .resume_left .bold {
-  color: #fff;
+  color: rgb(15, 15, 15);
 }
 
 .resume .resume_left .regular {
-  color: #b1eaff;
+  color: rgb(15, 15, 15);
 }
 
 .resume .resume_item {
@@ -161,11 +161,11 @@ body {
   top: 0;
   left: 0;
   height: 100%;
-  background: #fff;
+  color: rgb(15, 15, 15);
 }
 
 .resume .resume_left .resume_social .semi-bold {
-  color: #fff;
+  color: rgb(15, 15, 15);
   margin-bottom: 3px;
 }
 
